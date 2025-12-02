@@ -1,0 +1,25 @@
+# KANA-BOON – Silhouette
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Isse no se de fumikomu gōrain
+bokura wa
+Nanimo nanimo mada shiranu
+Issen koete furikaeruto mō nai
+bokura wa
+Nanimo nanimo mada shiranu
+Udatte udatte udatteku
+Kirameku ase ga koboreru no sa
+Oboetenai koto mo takusan
+attadarou
+Daremo kare mo shiruetto
+Daiji ni shitai mono motte otona
+ni naru nda
+Don'na toki mo hanasazu ni
+Mamori tsudzukeyou soshitara
+itsu no hi ni ka
+Nanimo kamo o waraeru-sa
+Hirari to hirari to matteru
+Konoha ga tonde yuku
+```
