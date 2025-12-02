@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Silhouette",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-02T16:49:33.551976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Can Be Your Silhouette",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/01_You_Can_Be_Your_Silhouette_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Can Be Your Silhouette",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/02_You_Can_Be_Your_Silhouette_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "Deacon Blue",
+      "has_synced": false,
+      "path": "select/03_Silhouette_Deacon_Blue.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "Active Child feat. Ellie Goulding",
+      "has_synced": true,
+      "path": "select/04_Silhouette_Active_Child_feat._Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silhouette (feat. Ellie Goulding)",
+      "artist": "Active Child",
+      "has_synced": true,
+      "path": "select/05_Silhouette_(feat._Ellie_Goulding)_Active_Child.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/06_Silhouette_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "PHASES",
+      "has_synced": true,
+      "path": "select/07_Silhouette_PHASES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Silhouette Skies",
+      "artist": "Helstar",
+      "has_synced": false,
+      "path": "select/08_Black_Silhouette_Skies_Helstar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silhouette Of A Dancer",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/09_Silhouette_Of_A_Dancer_Delain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silhouette Of A Dancer - Acoustic",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/10_Silhouette_Of_A_Dancer_-_Acoustic_Delain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silhouette of a Dancer (acoustic)",
+      "artist": "Delain",
+      "has_synced": false,
+      "path": "select/11_Silhouette_of_a_Dancer_(acoustic)_Delain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Silhouette",
+      "artist": "King Charles",
+      "has_synced": true,
+      "path": "select/12_In_Silhouette_King_Charles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/13_Silhouette_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Silhouette",
+      "artist": "Birdy",
+      "has_synced": true,
+      "path": "select/14_Silhouette_Birdy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Silhouette opening",
+      "artist": "Kana Boon",
+      "has_synced": false,
+      "path": "select/pl_01_Silhouette_opening_Kana_Boon.txt"
+    }
+  ]
+}
